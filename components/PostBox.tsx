@@ -1,3 +1,5 @@
+import { useForm } from "react-hook-form";
+
 function PostBox() {
   return (
     <div className="sticky p-4 mt-4 bg-gray-800 max-w-5xl mx-auto rounded-xl border border-gray-700 shadow-lg">
